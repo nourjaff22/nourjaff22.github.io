@@ -1,0 +1,22 @@
+body { background-color: rgb(247, 236, 217); }
+
+#section1 { 
+    background-color: lightblue ;
+}
+
+img {
+    border-radius: 50%;
+    border: 2px solid rgb(0, 0, 0);
+  }
+
+h2 {
+    text-decoration: underline;
+    text-decoration-color: lightblue;
+}
+
+table {
+    border-collapse: collapse;
+    border-color: lightblue;
+  }
+
+p ,ul ,table{ font-size: 20px;}
